@@ -1,0 +1,13 @@
+name: espacial
+title: espacial
+username:
+account: francielepallaoro
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 3791351
+bundleId: 4346426
+url: https://francielepallaoro.shinyapps.io/espacial/
+when: 1615794020.52301
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: crash100.csv|crash500.csv|dcrash.csv

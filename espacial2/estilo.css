@@ -1,0 +1,147 @@
+.legend {
+	color: #000;
+}
+
+.info {
+	background: rgba(255,255,255,0.5);
+}	
+
+.input-group .input-group-addon {
+	border-color: rgb(68,80,90);
+	background-color: rgb(68,80,90);
+}
+
+.input-group-text {
+	color: rgb(205,205,205);
+}
+
+.irs--shiny .irs-single {
+	background-color: #f05050;
+	left: -2.5%;
+}
+
+#shiny-tab-map .irs--shiny .irs-min, #shiny-tab-map .irs--shiny .irs-max {
+	background-color: #f05050;
+	color: #FFFFFF;
+	font-size: 10px;
+}
+
+.irs--shiny .irs-bar {
+    border-top: 1px solid #f05050;
+    border-bottom: 1px solid #f05050;
+    background: #f05050;
+}
+
+.slider-animate-container {
+	display:inline-block;
+    padding-top: 18px;
+}
+
+.play {
+	color: #FFFFFF;
+	padding-top: 18px;
+}
+
+.glyphicon-play {
+	font-size: 20px;
+}
+
+.pause {
+	color: #FFFFFF;
+	padding-top: 18px;
+}
+
+.glyphicon-pause {
+	font-size: 20px;
+}
+
+.tab-content>.active {
+    display: block;
+    margin-left: 20px;
+}
+
+.main-header .sidebar-toggle:before {
+    content: "\f0c9";
+    color: white;
+}
+
+.irs--shiny .irs-from {
+	background-color:rgb(240,80,210);
+	font-size: 12px;
+}
+
+.irs--shiny .irs-to {
+	background-color:rgb(240,80,210);
+	font-size: 12px;	
+}
+
+#shiny-tab-marker .irs--shiny .irs-bar, #shiny-tab-heatmap .irs--shiny .irs-bar {
+	border-top: 1px solid rgb(240,80,210);
+    border-bottom: 1px solid rgb(240,80,210);
+    background: rgb(240,80,210);
+}
+
+.irs--shiny .irs-grid-text {	
+    color: #ffffff;
+}
+
+.irs--shiny .irs-grid-pol {
+    background-color: #ffffff;
+}
+
+.selectize-control.multi .selectize-input > div {
+    background: rgb(240,80,210);
+    color: #ffffff;
+    border: 0 solid rgba(0, 0, 0, 0);
+}
+
+.selectize-control.multi .selectize-input > div.active {
+    background: rgb(240,80,210);
+    color: #ffffff;
+    border: 0 solid rgba(0, 0, 0, 0);
+}
+
+.option .active {
+    color: #ffffff;
+    background: rgb(240,80,210);
+}
+
+.option .active:focus {
+    color: #ffffff;
+    background: rgb(240,80,210);
+}
+
+.option {
+	color: #ffffff;
+}
+
+.option:hover {
+    background: rgb(240,80,210);
+	color: #ffffff;
+}
+
+.selectize-dropdown .active {
+	background: rgb(240,80,210);
+	color: #ffffff;
+}
+
+.datepicker table tr td.active:active, .datepicker table tr td.active.active, .datepicker table tr td.active.highlighted:active, .datepicker table tr td.active.highlighted.active {
+    color: #fff;
+    background-color:rgb(240,80,210);
+    border-color: #2087f5;
+}
+
+.selectize-dropdown, .selectize-input, .selectize-input input {
+    color: #fff;
+}
+
+#shiny-tab-marker .irs--shiny .irs-min, .irs--shiny .irs-max, #shiny-tab-heatmap .irs--shiny .irs-min, .irs--shiny .irs-max{
+    background-color: rgb(240,80,210);
+    color: #FFFFFF;
+	font-size: 12px;
+}
+
+#shiny-tab-marker .irs--shiny .irs-single, #shiny-tab-heatmap .irs--shiny .irs-single{
+    background-color: rgb(240,80,210);
+    left: -2.5%;
+}
